@@ -1,0 +1,28 @@
+.title {
+  text-align: center;
+  font-family: Brush Script MT;
+  font-size: 34px;
+  color: blue;
+}
+.navbar {
+  height: 9%;
+  width: 100%;
+  background-color: aquamarine;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.list-item {
+  list-style-type: none;
+  background-color: beige;
+  cursor: pointer;
+  padding: 10px ;
+  margin: 5px;
+  border-radius: 1px solid green;
+}
+.list-item:hover {
+  background-color: aqua;
+}
+.head {
+  text-decoration: none;
+}
